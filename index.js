@@ -7,9 +7,9 @@ let validator = require('validator').isEmail,
 
 const defaultOptions = {
   port: 25,
-  sender: 'quepiecheq@gmail.com',
+  sender: 'baannokhooksg@gmail.com',
   timeout: 0,
-  fqdn: 'quepiecheq@gmail.com',
+  fqdn: 'baannokhooksg@gmail.com',
   ignore: false
 }
 
