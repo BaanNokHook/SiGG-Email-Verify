@@ -18,8 +18,8 @@ let addresses = [],
     port : 25,
     // sender : 'name@example.org',
     // fqdn : 'mail.example.org',
-    sender : 'quepiecheq@gmail.com',
-    fqdn : 'quepiecheq@gmail.com',
+    sender : 'baannokhooksg@gmail.com',
+    fqdn : 'baannokhooksg@gmail.com',
     concurrency: 1,
     debug: false
   }
